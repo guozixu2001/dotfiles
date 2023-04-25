@@ -311,8 +311,6 @@ func SetCC()
     call append(line("."), "// vim: et tw=100 ts=4 sw=4 cc=120")  
 endfunc
 
-" Hello，我是PowerVim的作者，程序员Carl，欢迎关注我的微信公众号：代码随想录 
-
 " 使用的背景主题
 colorscheme monokai
 " 添加自动补全字典
